@@ -1,3 +1,3 @@
-# Dockerhub: createdigitalspb/redis3
+# Dockerhub: createdigitalspb/rabbitmq
 
-Our image for projects that use redis >= 3.
+Our image for projects that use RabbitMQ.
